@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- to take taste of react components we make a component for icons and map through them  -->
+## Data.js -> is a file where we store components that can be resused i.e reusable components
+
+<p>
+for active menu - we use usestate hook of react 
+</p>
+<!-- Sidebar completed -->
+<!-- now for middle section -->
+
+<!-- card done -->
+TODO: 
